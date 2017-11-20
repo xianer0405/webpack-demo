@@ -1,0 +1,6 @@
+.red-bg {
+	background: red ;
+	color: white ;
+	background: url('../img/girl.png') no-repeat;
+	height: 200px;
+}
